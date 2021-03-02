@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89c7820d-faa8-41d5-9953-3c74c386a823" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nhwVqWBgcC3uc7AQcxqu6oCjqk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas\css" />
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas\www\videos" />
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas\www\img" />
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas\www\audio" />
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas\www" />
+      <recent name="C:\Users\Usuario\WebstormProjects\portal-tiendas\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="fotos.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portal-tiendas/www/fotos.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portal-tiendas/www/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="juego.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portal-tiendas/www/juego.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.juego.html" />
+        <item itemvalue="JavaScript Debug.fotos.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c7820d-faa8-41d5-9953-3c74c386a823" name="Default Changelist" comment="" />
+      <created>1611855657133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611855657133</updated>
+      <workItem from="1611855658296" duration="3207000" />
+      <workItem from="1611942489246" duration="3112000" />
+      <workItem from="1612024357771" duration="4935000" />
+      <workItem from="1612041210742" duration="3965000" />
+      <workItem from="1612197233308" duration="3746000" />
+      <workItem from="1612206219385" duration="668000" />
+      <workItem from="1612287969374" duration="1600000" />
+      <workItem from="1612371985109" duration="4413000" />
+      <workItem from="1612378129161" duration="1715000" />
+      <workItem from="1612457969906" duration="6513000" />
+      <workItem from="1612547409190" duration="3097000" />
+      <workItem from="1612630083617" duration="6407000" />
+      <workItem from="1612713040338" duration="3940000" />
+      <workItem from="1612801837491" duration="4697000" />
+      <workItem from="1612897270390" duration="3764000" />
+      <workItem from="1612972243810" duration="2412000" />
+      <workItem from="1613149482343" duration="4176000" />
+      <workItem from="1613237143173" duration="3398000" />
+      <workItem from="1613245533520" duration="3949000" />
+      <workItem from="1613320466232" duration="5239000" />
+      <workItem from="1613411948362" duration="4809000" />
+      <workItem from="1613490960101" duration="5046000" />
+      <workItem from="1613496088025" duration="100000" />
+      <workItem from="1613496331072" duration="1758000" />
+      <workItem from="1613516046702" duration="1886000" />
+      <workItem from="1613586106310" duration="4615000" />
+      <workItem from="1613755481508" duration="1351000" />
+      <workItem from="1613757752155" duration="2998000" />
+      <workItem from="1613837900610" duration="2091000" />
+      <workItem from="1613924600512" duration="5751000" />
+      <workItem from="1614014329493" duration="5564000" />
+      <workItem from="1614089166646" duration="796000" />
+      <workItem from="1614102035735" duration="6509000" />
+      <workItem from="1614183807384" duration="3003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

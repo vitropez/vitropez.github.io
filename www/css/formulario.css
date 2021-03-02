@@ -1,0 +1,122 @@
+body:hover{
+    cursor: pointer;
+
+}
+#campo{
+    display: inline;
+    float: left;
+    width: 50%;
+    margin: .6em 0;
+}
+fieldset div{
+    margin: .4em 0;
+}
+div label{
+    width: 25%;
+    float: left;
+}
+#alta{
+    clear: both;
+    float: left;
+}
+
+
+fieldset{
+    border-radius: 15px;
+    background-color: darkgray;
+}
+input:focus{
+    border: 2px solid #000;
+    background: #F3F3F3;
+    cursor:pointer;
+}
+.RRSS{
+    border-width: thick;
+    border-style: solid;
+    clear: both;
+    text-align: right;
+    height: 50px;
+    background-color: violet;
+}
+.titulo{
+    border-width: thick;
+    border-style: solid;
+    height: 80px;
+    font-size: 20px;
+    background-image: url("../img/relojes.jpg");
+    background-size: cover;
+
+}
+.titulo a{
+    display: inline;
+    padding-right: 30px;
+    clear: both;
+}
+
+.titulo a{
+    border: 1px outset #CCC;
+    background: #EEE;
+    padding: .1em .5em;
+    text-decoration: none;
+    position: relative;
+    top: 30%;
+    color: #222;
+
+}
+.titulo a:hover{
+    background: #CCB;
+}
+.titulo a:active{
+    border: 1px inset #000;
+}
+.titulo span{
+    position: relative;
+    text-align: center;
+    text-shadow: 2px 6px 3px brown;
+    font-family: "Bauhaus 93", "Arial",sans-serif;
+    font-size: xxx-large;
+    color: coral;
+
+}
+.RRSS p{
+    font-size:20px;
+
+    display: inline;
+    float:left;
+}
+#contenedor{
+    height: 650px;
+    position: relative;
+    background-color: coral;
+}
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+}
+fieldset{
+    width: 300px;
+    height: 200px;
+
+}
+@media  screen  and (max-width: 1000px){
+    #contenedor {
+        background-color: blue;
+        overflow: hidden;
+        float:none;
+        width: 100%;
+
+
+    }
+    #lateral{
+        width: 18%;
+    }
+    .titulo{
+
+        white-space: nowrap;
+    }
+}
+
+

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/formulario.css">
+</head>
+<body>
+<div id="contenedor">
+    <header class="titulo">
+
+        <a href="index.html">INDEX</a>
+
+
+        <a href="autor.html">AUTOR</a>
+
+
+        <a href="noticias.html">NOTICIAS</a>
+
+
+        <a href="juego.html">JUEGO</a>
+
+        <a href="fotos.html">FOTOS</a>
+
+        <span>CIUDAD DE LA CORUÑA</span>
+    </header>
+
+
+    <form method="post" action="#">
+        <div id="campo">
+       <fieldset>
+           <legend>Registro de usuario</legend>
+           <div>
+               <input id="nombre" type="text"/>
+               <label for="nombre">Nombre</label>
+           </div>
+
+           <div>
+              <input id="apellido1" type="text"  />
+               <label for="apellido1">1º apellido</label>
+           </div>
+           <div>
+              <input id="apellido2" type="text"  />
+               <label for="apellido2">2º apellido</label>
+           </div>
+            <div>
+                <label  for="DNI">DNI</label>
+                <input id="DNI" type="text"  maxlength="9"/>
+            </div>
+            <div>
+                <label for="contrasena">Contraseña</label>
+                <input id="contrasena" type="password"/>
+            </div>
+           <div>
+               <label for="foto">Foto</label>
+               <input id="foto" type="file">
+           </div>
+
+       </fieldset>
+        </div>
+        <div id="campo">
+
+        <fieldset>
+            <legend>Datos de contacto</legend>
+
+
+        <div>
+            <input id="telefono"  type="tel" />
+            <label for="telefono">Telefono</label>
+        </div>
+        <div>
+            <input id="email" type="email"  />
+            <label for="email">email</label>
+        </div>
+        <div>
+            <input id="direccion" type="text" />
+            <label for="direccion">Direccion</label>
+        </div>
+        <div>
+            <input id="codigo postal" type="text" />
+            <label for="codigo postal">Codigo Postal</label>
+        </div>
+            <div>
+                <label for="fecha">Fecha de nacimiento</label>
+                <input id="fecha" type="date">
+            </div>
+        </fieldset>
+        </div>
+        <div>
+            <input id="alta" type="submit" value="Darme de alta &rarr;" />
+
+        </div>
+
+    </form>
+
+</div>
+<footer class="RRSS">
+    <p>Santiago Altafaj Iglesias</p>
+    <a href="https://www.instagram.com/">
+        <img class="icono"  src="img/instagram.jpg">
+    </a>
+    <a href="https://es-es.facebook.com/">
+        <img class="icono" src="img/facebook.jpg">
+    </a>
+</footer>
+
+
+</body>
+</html>
+

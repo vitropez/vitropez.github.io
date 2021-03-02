@@ -1,0 +1,205 @@
+
+.titulo{
+    border-width: thick;
+    border-style: solid;
+    height: 80px;
+    font-size: 20px;
+    background-image: url("../img/relojes.jpg");
+    background-size: cover;
+
+}
+.titulo a{
+    border: 1px outset #CCC;
+    background: #EEE;
+    padding: .10em .5em;
+    text-decoration: none;
+    display: inline;
+
+    position: relative;
+    top: 30%;
+    color: #222;
+
+}
+
+
+.titulo p{
+
+    text-shadow: 2px 6px 3px brown;
+    font-family: "Bauhaus 93", "Arial",sans-serif;
+    font-size: xxx-large;
+    color: coral;
+    text-align: center;
+    display: inline;
+    position: relative;
+
+
+}
+.titulo a:hover{
+    background: #CCB;
+}
+.titulo a:active{
+    border: 1px inset #000;
+}
+
+#navegacion{
+    display: block;
+    float: left;
+}
+#contenedor{
+    border-width: thick;
+    border-style: solid;
+    width: 100%;
+    min-width: 50%;
+    height: 100%;
+    background-color: lightsalmon;
+    display: flex;
+    margin: 0%;
+}
+.RRSS{
+    border-width: thick;
+    border-style: solid;
+    clear: both;
+    text-align: right;
+    height: 50px;
+    background-color: violet;
+}
+.RRSS p{
+    font-size:20px;
+
+    display: inline;
+    float:left;
+}
+.icono{
+    width: 40px;
+    height: 40px;
+    cursor: hand;
+    float: right;
+    padding-top: 5px;
+}#articulos{
+    margin-left: 5px;
+     text-align: center;
+     width: 20%;
+     overflow: scroll;
+    height:1200px;
+    background-color: gold;
+
+ }
+ #articulos h1{
+     text-align: center;
+     -webkit-text-stroke-color: blue;
+     -webkit-text-stroke-width: 2px;
+ }
+ #articulos img{
+     width: 100%;
+     height: 100px;
+     padding-top: 20px;
+     margin-right: 5px;
+
+
+ }
+
+#noticias{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+#noticias section{
+    width: 39%;
+    border: 1px outset #CCC;
+    background-color: #CCCCBB;
+   margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 15px;
+
+}
+#noticias header{
+    text-align: center;
+    font-size: x-large;
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+    background-color: white;
+
+}
+aside{
+    width: 40%;
+    background-color: lightseagreen;
+}
+#noticias footer{
+    background-color: blue;
+    width: 100%;
+    height:50px;
+    border-radius: 15px;
+
+
+}
+footer p{
+    color: white;
+    text-align: center;
+  font-size: x-large;
+
+
+}
+video{
+   margin-top: 100px;
+    width: 98%;
+
+}
+#publicidad{
+    width: 98%;
+    height: 300px;
+    padding-top: 100px;
+
+
+}
+#calamar{
+    padding-top: 20px;
+    width: 70%;
+    height: 300px;
+    -webkit-box-reflect: below 2px -webkit-gradient(linear,0 0, 0 100%,from(transparent)
+    ,color-stop(.4,transparent),to(white));
+
+}
+#himno{
+    margin-top: 100px;
+    height: 170px;
+   background-image:url("../img/bandera.png");
+    background-size: contain;
+}
+figure p{
+
+    text-align: center;
+    -webkit-text-stroke-color: blue;
+    -webkit-text-stroke-width: 2px;
+}
+
+
+@media  screen  and (max-width: 1000px){
+    #contenedor {
+        background-color: blue;
+        overflow: hidden;
+        float:none;
+        width: 100%;
+
+
+    }
+    #lateral{
+        width: 18%;
+    }
+    .titulo {
+        font-size: 10px;
+
+
+        white-space: nowrap;
+
+    }
+    .titulo p{
+        font-size: 15px;
+    }
+}
+
+
+

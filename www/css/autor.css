@@ -1,0 +1,176 @@
+.titulo{
+    border-width: thick;
+    border-style: solid;
+    height: 80px;
+    font-size: 20px;
+    background-image: url("../img/relojes.jpg");
+    background-size: cover;
+
+
+}
+.titulo a{
+    border: 1px outset #CCC;
+    background: #EEE;
+    padding: .1em .5em;
+    text-decoration: none;
+    position: relative;
+    top: 30%;
+    color: #222;
+
+}
+.titulo a:hover{
+    background: #CCB;
+}
+.titulo a:active{
+    border: 1px inset #000;
+}
+
+.titulo a{
+    display: inline;
+    padding-right: 30px;
+    clear: both;
+}
+.titulo span{
+    position: relative;
+    text-align: center;
+    text-shadow: 2px 6px 3px brown;
+    font-family: "Bauhaus 93", "Arial",sans-serif;
+    font-size: xxx-large;
+    color: coral;
+
+}
+
+#nav{
+    float: left;
+    width: 12%;
+   height: 200px;
+    border-style: solid;
+    border: thin;
+    clear: both;
+
+
+}
+#contenedor{
+    display:flex;
+    flex-wrap: wrap;
+}
+#main{
+    width:59% ;
+    padding-bottom: 40px;
+}
+#nav{
+
+    width: 20%;
+    height:400px;
+}
+#lateral{
+    width: 20%;
+}
+.RRSS{
+    border-width: thick;
+    border-style: solid;
+    clear: both;
+    text-align: right;
+    height: 50px;
+   background-color: violet;
+}
+.RRSS p{
+    font-size:20px;
+
+    display: inline;
+    float:left;
+}
+.icono{
+    width: 40px;
+    height: 40px;
+    cursor: hand;
+    float: right;
+    padding-top: 5px;
+}
+#personal{
+    width: 160px;
+    height: 90px;
+    float: left;
+
+}
+
+#juegos{
+    float: left;
+    width: 10%;
+}
+#tabla{
+    width:100%;
+    height: 50%;
+}
+#opiniones{
+    width:100%;
+    height: 30%;
+    background-color: coral;
+    border-radius: 30px;
+}
+#pricipal p{
+    clear: left;
+    text-align: left;
+}
+
+#pricipal{
+    float: left;
+    width: 70%;
+
+}
+#contenedor{
+    background-color: #CCCCCC;
+    font-family: "Bauhaus 93", "Arial",sans-serif;
+}
+#juegos img{
+    width: 60px;
+    height: 60px;
+    padding-left: 50%;
+    padding-top: 80%;
+    cursor: pointer;
+
+}
+#juegos img:hover{
+    transform: scale(2);
+}
+#comentario{
+    border-radius: 10px;
+    width: 80%;
+}
+form{
+    text-align: center;
+}
+#colaboradores{
+    padding-top: 40px;
+    padding-right: 45px;
+    padding-left: 10px;
+    text-transform: capitalize;
+    text-decoration: blink;
+    color: white;
+}
+
+#contacto{
+    width: 100%;
+    border: 1px solid white;
+    position: relative;
+    top: 40px;
+}
+#contacto td{
+    border: 1px solid white;
+}
+@media  screen  and (max-width: 1000px){
+    #contenedor {
+        background-color: blue;
+        overflow: hidden;
+        float:none;
+        width: 100%;
+
+
+    }
+
+
+    .titulo{
+
+        white-space: nowrap;
+    }
+}
